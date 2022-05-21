@@ -6,7 +6,6 @@ import Heads from './heads'
 import Navigations from './navigations'
 import Sections from './sections'
 import Footers from './footers'
-
 ReactDOM.render(
 <>
   <html>

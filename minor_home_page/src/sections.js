@@ -1,4 +1,3 @@
-
 import React from "react"
 import logo from './fashio.gif'
 function sections(){
